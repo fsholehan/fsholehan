@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on own projects
 - 🌱 I’m currently learning ReactJS family
-
+- 🙌 Idk
 <!--
 **fsholehan/fsholehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
