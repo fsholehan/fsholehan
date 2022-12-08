@@ -8,6 +8,7 @@
 - ☠ orewa fuad
 - 💬 ask me about how to center a div
 - 💯 with no brain
+- 🗣 
 <!--
 **fsholehan/fsholehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
