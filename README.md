@@ -5,7 +5,7 @@
 - 🙌 Idk
 - 😎 you can see me
 - 🗣 zehahahahaha huhuhuhu
-- ☠ orewa fuad
+- ☠ orewa fuad, hmmmm
 - 💬 ask me about how to center a div
 - 💯 with no brain
 <!--
