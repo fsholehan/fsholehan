@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on own projects
 - 🌱 I’m currently learning ReactJS family
 - 🙌 I have no idea
-- 😎 you can see me
+- 😎 you can see me tetetet
 - 🗣 zehahahahaha huhuhuhu hihihihi
 - ☠ orewa fuad, hmmmm
 - 💬 ask me about how to sleep
