@@ -6,7 +6,7 @@
 - 😎 you can see me tetetet
 - 🗣 zehahahahaha huhuhuhu hihihihi
 - ☠ orewa fuad, hmmmm
-- 💬 ask me about how to sleep
+- 💬 ask me about how to check if exists
 - 💯 with no brain
 <!--
 **fsholehan/fsholehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
