@@ -1,4 +1,4 @@
-### holaa 👋
+### hello there 👋
 
 - 🔭 I’m currently working on own projects
 - 🌱 I’m currently learning ReactJS family
