@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS family
 - 🙌 I have no idea
 - 😎 you can see me tetetet
-- 🗣 zehahahahaha huhuhuhu hihihihi
+- 🗣 zehahahaha
 - ☠ orewa fuad, hmmmm
 - 💬 ask me about how to check if exists
 - 💯 with no brain
