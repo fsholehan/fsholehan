@@ -1,7 +1,7 @@
 ### hello there 👋
 
 - 🔭 I’m currently working on own projects
-- 🌱 I’m currently learning ReactJS family
+- 🌱 I’m currently learning ReactJS
 - 🙌 I have no idea
 - 😎 you can see me tetetet
 - 🗣 zehahahaha
