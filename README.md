@@ -5,7 +5,7 @@
 - 🙌 I have no idea
 - 😎 you can see me tetetet
 - 🗣 zehahahaha
-- ☠ orewa fuad, hmmmm
+- ☠ orewa fuad
 - 💬 ask me about how to check if exists
 - 💯 with no brain
 <!--
