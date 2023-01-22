@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on own projects
 - 🌱 I’m currently learning ReactJS
 - 🙌 I have no idea
-- 😎 you can see me tetetet
+- 😎 you can see me
 - 🗣 zehahahaha
 - ☠ orewa fuad
 - 💬 ask me about how to check if exists
