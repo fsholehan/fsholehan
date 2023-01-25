@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS
 - 🙌 I have no idea
 - 😎 you can see me
-- 🗣 zehahahaha
+- 🗣 zehahahahaha
 - ☠ orewa fuad
 - 💬 ask me about how to check if !exists
 - 💯 with no brain
