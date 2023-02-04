@@ -1,6 +1,6 @@
 ### hello there 👋
 
-- 🔭 I’m currently working on own projects
+- 🔭 I’m currently working on own projects (nakanime)
 - 🌱 I’m currently learning ReactJS
 - 🙌 I have no idea
 - 😎 you can see me
