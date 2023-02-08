@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning ReactJS
 - 🙌 I have no idea
 - 😎 you can see me
-- 🗣 zehahahahaha
-- ☠ orewa fuad
 - 💬 ask me about how to check if !exists yes
 - 💯 with no brain
 <!--
