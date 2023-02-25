@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on own projects (nakanime)
 - 🌱 I’m currently learning ReactJS & Nextjs
 - 🙌 I have no idea
-- 😎 you can see me
+- 😎 I'm cool
 - 💬 ask me about how to check if !exists yes
 - 💯 tailwindcss
 - 😄 Pronouns: ef u a de
