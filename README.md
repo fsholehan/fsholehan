@@ -5,7 +5,7 @@
 - 🙌 I have no idea
 - 😎 I'm cool
 - 💬 ask me about how to check if !exists yes
-- 💯 tailwindcss
+- 💯 nextjs & tailwindcss
 - 😄 Pronouns: fuad
 <!--
 **fsholehan/fsholehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
