@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on own projects (nakanime)
 - 🌱 I’m currently learning ReactJS & Nextjs, ExpressJs
-- 🙌 I love chatgpt hheheh
+- 🙌 I love chatgpt & you
 - 😎 I'm cool 
 - 💬 ask me about how to check if !exists yes
 - 💯 nextjs & tailwindcss
