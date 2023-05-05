@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS & Nextjs, ExpressJs
 - 🙌 I love me
 - 😎 I'm cool 
-- 💬 ask me about how to check if !exists
+- 💬 ask me about how to check if exists
 - 💯 reactjs, nextjs & tailwindcss,
 - 🗣 Pronouns: puat
 <!--
