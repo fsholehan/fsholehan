@@ -7,6 +7,7 @@
 - 💬 ask me about how to check if exists
 - 💯 reactjs, nextjs & tailwindcss,
 - 🗣 Pronouns: fuad
+- 🌏 nakanime.my.id
 <!--
 **fsholehan/fsholehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
