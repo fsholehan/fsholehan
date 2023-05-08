@@ -5,7 +5,7 @@
 - 🙌 I love me
 - 😎 I'm cool 
 - 💬 ask me about how to check if exists
-- 💯 reactjs, nextjs & tailwindcss,
+- 💯 reactjs, nextjs & tailwindcss
 - 🗣 Pronouns: fuad
 - 🌏 nakanime.my.id
 <!--
