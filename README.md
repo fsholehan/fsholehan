@@ -1,7 +1,7 @@
 ### hello all 👋
 
 - 🔭 I’m currently working on own projects (nakanime)
-- 🌱 I’m currently learning ReactJS & Nextjs, ExpressJs
+- 🌱 I’m currently learning ReactJS & Nextjs, ExpressJs, Nodejs
 - 🙌 I love me
 - 😎 I'm cool hhhe
 - 💬 ask me about how to check if exists
