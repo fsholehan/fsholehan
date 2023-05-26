@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on own projects (nakanime)
 - 🌱 I’m currently learning ReactJS & Nextjs, ExpressJs, Nodejs
 - 🙌 I love me
-- 😎 I'm cool hhhe
+- 😎 I'm cool hhhhe
 - 💬 ask me about how to check if exists
 - 💯 reactjs, nextjs & tailwindcss
 - 🗣 Pronouns: fuad
