@@ -5,7 +5,7 @@
 - 🙌 I love me
 - 😎 I'm cool hhhhe
 - 💬 ask me about .....
-- 💯 reactjs, nextjs & tailwindcss
+- 💯 reactjs, nextjs & tailwindcss 
 - 🗣 Pronouns: fuad
 - 🌏 nakanime.my.id
 <!--
