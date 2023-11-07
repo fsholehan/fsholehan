@@ -1,4 +1,4 @@
-### hello world! 👋
+### hello world! 👋 
  
 - 🔭 I’m currently working on own projects (nakanime)
 - 🌱 I’m currently learning ReactJS & Nextjs, ExpressJs, Nodejs 
