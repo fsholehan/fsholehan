@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS (Nextjs), ExpressJs, Nodejs 
 - 🙌 I love me
 - 😎 I'm cool hhhh
-- 💬 ask me about ...
+- 💬 ask me about ... 
 - 💯 reactjs, nextjs & tailwindcss 
 - 🗣 Pronouns: fuad
 <!-- 
