@@ -6,7 +6,7 @@
 - 😎 I'm cool hhhh 
 - 💬 ask me about ... 
 - 💯 reactjs, nextjs & tailwindcss
-- 🗣 Pronouns: fuad
+- 🗣 Pronouns: fuad 
 <!--
 **fsholehan/fsholehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
