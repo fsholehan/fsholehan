@@ -7,6 +7,14 @@
 - 💬 ask me about ...
 - 💯 reactjs, nextjs & tailwindcss
 - 🗣 Pronouns: fuad
+
+import { Children } from "react";
+
+const EachUtils = ({ of, render }) => {
+  return Children.toArray(of.map((item, index) => render(item, index)));
+}
+
+export default EachUtils;
 <!--  
 **fsholehan/fsholehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
